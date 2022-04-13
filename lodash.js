@@ -1,5 +1,5 @@
 /**
- * @license
+ * @license 
  * Lodash <https://lodash.com/>
  * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
  * Released under MIT license <https://lodash.com/license>
